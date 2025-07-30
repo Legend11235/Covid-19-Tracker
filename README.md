@@ -1,0 +1,1 @@
+A Covid-19 Tracker that displays in-depth COVID-19 stats for any country or Canadian province. Other features include a Travel Advisory and also a Self Screening feature which uses an algorithm to evaluate the user's likelihood of being infected with COVID-19, providing a personalized assessment based on relevant criteria and symptoms.
